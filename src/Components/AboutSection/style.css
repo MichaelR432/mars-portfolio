@@ -83,12 +83,13 @@
 
     
     .skillBtn {
+      /* background: linear-gradient(177deg, #F3A8B2, #ffcfd4); */
       background: none;
       border: none;
       padding: 10px 30px;
       margin-bottom: 20px;
       border-radius: 8px;
-      color: #f1a0ab;
+      color: #054644;
       pointer-events: none;
       cursor: none;
       font-weight: bold;
@@ -101,6 +102,7 @@
 
     .icon {
       padding-bottom:7px;
+
 
     }
 

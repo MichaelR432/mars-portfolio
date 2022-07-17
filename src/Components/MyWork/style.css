@@ -80,7 +80,7 @@
 }
 
 .workBtn {
-    background: linear-gradient(177deg, #F3A8B2, #ffcfd4);
+    background: linear-gradient(177deg, #032726, #045f56);
     border: none;
     padding: .575rem .75rem;
     border-radius: .25rem;
@@ -96,7 +96,7 @@
 
     .workBtn:hover {
         text-decoration:none; 
-        background: linear-gradient(177deg, #f1a0ab, #fecacf);
+        background: linear-gradient(177deg, #054341, #068175);
         box-shadow: 0 4px 12px 0 rgba(0,0,0,0.2);
 
         color: white

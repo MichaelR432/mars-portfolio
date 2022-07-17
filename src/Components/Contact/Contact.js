@@ -9,22 +9,22 @@ export default function Contact() {
           <Col className="contactCol" col-xs-12>
             <h3 className="contact" >Let's Connect</h3>
             <p className="contactP">
-              I'm always looking for new collaborations!
+              I'm always looking for new connections.
             </p>
           </Col>
           <Col className="contactCol1" col-xs-12>
           
-          <a href="https://www.linkedin.com/in/christina-flores-49687182/" target="_blank" rel="noreferrer noopener">
+          <a href="https://www.linkedin.com/in/michael-ramos-4399aa1a4/" target="_blank" rel="noreferrer noopener">
             <i class="fab fa-linkedin fa-4x contactIcon"></i>
           </a>
-          <a href="https://github.com/cdflori" target="_blank" rel="noreferrer noopener">
+          <a href="https://github.com/MichaelR432" target="_blank" rel="noreferrer noopener">
             <i class="fab fa-github fa-4x contactIcon"></i>
           </a>
-          <a href="tel:4698823895">
+          <a href="tel:3614254683">
             <i class="fas fa-phone-square fa-4x contactIcon"></i>
           </a>
           
-          <a href="mailto:cdflori1@gmail.com">
+          <a href="mailto:michaelaramos182@gmail.com">
             <i class="fas fa-envelope fa-4x contactIcon"></i>
           </a>
           </Col>
