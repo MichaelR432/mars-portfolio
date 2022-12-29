@@ -15,12 +15,13 @@ function App() {
   return (
     <div>
       <MainNavbar/>
-        <Switch>
+      <Home/>
+        {/* <Switch>
         <Route exact path="/" render={props => <Home {...props} />} />     
         <Route path="/contact" render={props => <Contact {...props} />} /> 
         <Route path="/work" render={props => <Work {...props} />} /> 
         <Route exact path="/about" render={props => <About {...props} />} /> 
-        </Switch>
+        </Switch> */}
 
     </div>
     
